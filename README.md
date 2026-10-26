@@ -17,10 +17,6 @@ Building practical experience with:
 - Cloud fundamentals (AWS)
 - Infrastructure automation and scripting
 
-## Projects
-This repository and others will contain hands-on projects demonstrating cloud and DevOps skills.  
-Each project includes a clear README explaining what was built and why.
-
 ## Contact
 - Email: yossiruvinov@gmail.com
 - LinkedIn: www.linkedin.com/in/yosef-ruvinov
